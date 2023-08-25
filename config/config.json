@@ -1,0 +1,14 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "0712Danchiwaz",
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "sync":{
+        "alter":true
+    }
+  }
+
+
+}
